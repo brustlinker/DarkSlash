@@ -1,0 +1,28 @@
+{
+  "ver": "1.0.0",
+  "uuid": "b6a3c5f3-824c-4bc9-931e-04efc9357390",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "home_btn_veewo_on": {
+      "ver": "1.0.2",
+      "uuid": "ff6f9cfa-2ffa-4f79-8697-779de49cb926",
+      "rawTextureUuid": "b6a3c5f3-824c-4bc9-931e-04efc9357390",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 8,
+      "trimY": 6,
+      "width": 101,
+      "height": 94,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
