@@ -57,7 +57,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "Canvas",
+    "_name": "StartGame",
     "_objFlags": 0,
     "_opacity": 255,
     "_color": {
@@ -310,10 +310,10 @@
     },
     "duration": 0.1,
     "pressedSprite": {
-      "__uuid__": "e9ec654c-97a2-4787-9325-e6a10375219a"
+      "__uuid__": "3cee92ef-4dca-435b-b195-567b42917fba"
     },
     "hoverSprite": {
-      "__uuid__": "e9ec654c-97a2-4787-9325-e6a10375219a"
+      "__uuid__": "eb97c637-e80e-4b3d-8fe8-e547cd4402f3"
     },
     "clickEvents": [],
     "_N$interactable": true,
@@ -471,10 +471,10 @@
     },
     "duration": 0.1,
     "pressedSprite": {
-      "__uuid__": "e9ec654c-97a2-4787-9325-e6a10375219a"
+      "__uuid__": "e05e9629-0e61-4a85-9f56-97bc1907a4a9"
     },
     "hoverSprite": {
-      "__uuid__": "e9ec654c-97a2-4787-9325-e6a10375219a"
+      "__uuid__": "8ce7e851-9346-48d6-87cc-1234d5d22ce8"
     },
     "clickEvents": [],
     "_N$interactable": true,
@@ -496,7 +496,7 @@
       "__uuid__": "8ce7e851-9346-48d6-87cc-1234d5d22ce8"
     },
     "_N$disabledSprite": {
-      "__uuid__": "29158224-f8dd-4661-a796-1ffab537140e"
+      "__uuid__": "8ce7e851-9346-48d6-87cc-1234d5d22ce8"
     },
     "_N$target": {
       "__id__": 10
@@ -632,10 +632,10 @@
     },
     "duration": 0.1,
     "pressedSprite": {
-      "__uuid__": "e9ec654c-97a2-4787-9325-e6a10375219a"
+      "__uuid__": "ff6f9cfa-2ffa-4f79-8697-779de49cb926"
     },
     "hoverSprite": {
-      "__uuid__": "e9ec654c-97a2-4787-9325-e6a10375219a"
+      "__uuid__": "f52d6021-21ba-46ec-b825-6154ff2e2d26"
     },
     "clickEvents": [],
     "_N$interactable": true,
@@ -657,7 +657,7 @@
       "__uuid__": "f52d6021-21ba-46ec-b825-6154ff2e2d26"
     },
     "_N$disabledSprite": {
-      "__uuid__": "29158224-f8dd-4661-a796-1ffab537140e"
+      "__uuid__": "f52d6021-21ba-46ec-b825-6154ff2e2d26"
     },
     "_N$target": {
       "__id__": 14
