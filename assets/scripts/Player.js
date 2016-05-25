@@ -28,8 +28,8 @@ cc.Class({
         },
     },
 
-    onLoad: function () {
-        //注册事件监听
+    // use this for initialization
+    init: function () {
         this.registerInput();
         this.spArrow.active = false;
     },
@@ -59,10 +59,6 @@ cc.Class({
                 });
             }
         }, self.node);
-    },
-
-    start: function () {
-        this.ready();
     },
 
     ready: function () {
