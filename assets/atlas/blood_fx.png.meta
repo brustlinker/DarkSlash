@@ -6,7 +6,7 @@
   "filterMode": "bilinear",
   "subMetas": {
     "blood_fx": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "005da964-16f7-457f-909f-730b22a67538",
       "rawTextureUuid": "b7a483f4-e228-483c-90f3-cbf55927e97f",
       "trimType": "auto",
@@ -18,6 +18,8 @@
       "trimY": 2,
       "width": 336,
       "height": 1012,
+      "rawWidth": 340,
+      "rawHeight": 1016,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,

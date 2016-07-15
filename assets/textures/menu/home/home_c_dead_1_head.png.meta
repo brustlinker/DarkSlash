@@ -6,7 +6,7 @@
   "filterMode": "bilinear",
   "subMetas": {
     "home_c_dead_1_head": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "31a5ed1d-8285-4f79-a7a4-2462d68b8605",
       "rawTextureUuid": "f53a712d-93f5-4ff1-b6d9-044b68c9f241",
       "trimType": "auto",
@@ -18,6 +18,8 @@
       "trimY": 0,
       "width": 50,
       "height": 46,
+      "rawWidth": 50,
+      "rawHeight": 46,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,

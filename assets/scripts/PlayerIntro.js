@@ -17,6 +17,7 @@ cc.Class({
     },
 
     onFinish: function () {
+        console.log("onFinish");
         this.game.playerReady();
         this.node.active = false;
     }

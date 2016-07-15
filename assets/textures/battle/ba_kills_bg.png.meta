@@ -6,7 +6,7 @@
   "filterMode": "bilinear",
   "subMetas": {
     "ba_kills_bg": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "c503f6ec-4424-434a-97e0-956a0c5d4a13",
       "rawTextureUuid": "bb283c85-e02b-41cf-8e20-5dada2195acf",
       "trimType": "auto",
@@ -18,6 +18,8 @@
       "trimY": 1,
       "width": 233,
       "height": 102,
+      "rawWidth": 244,
+      "rawHeight": 104,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,

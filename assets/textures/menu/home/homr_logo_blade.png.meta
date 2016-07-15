@@ -6,7 +6,7 @@
   "filterMode": "bilinear",
   "subMetas": {
     "homr_logo_blade": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "a5a0a26c-bcc1-4fed-9c60-d61891b0b59f",
       "rawTextureUuid": "614c486e-f6eb-4cf5-9c33-6b428bccc163",
       "trimType": "auto",
@@ -18,6 +18,8 @@
       "trimY": 0,
       "width": 607,
       "height": 28,
+      "rawWidth": 607,
+      "rawHeight": 28,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,

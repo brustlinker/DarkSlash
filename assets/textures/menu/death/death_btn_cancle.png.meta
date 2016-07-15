@@ -6,7 +6,7 @@
   "filterMode": "bilinear",
   "subMetas": {
     "death_btn_cancle": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "8bbe368b-dfae-4e56-816c-767dbbba8d93",
       "rawTextureUuid": "f69d46e4-4fa9-4be2-a9f2-48e9b34e1b84",
       "trimType": "auto",
@@ -18,6 +18,8 @@
       "trimY": 18,
       "width": 264,
       "height": 90,
+      "rawWidth": 284,
+      "rawHeight": 122,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,

@@ -6,7 +6,7 @@
   "filterMode": "bilinear",
   "subMetas": {
     "player_swordkee_1": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "b33ed986-ae7e-4d74-b3e4-b6ce1f4bd5aa",
       "rawTextureUuid": "5b1a3854-9032-4623-a03c-b31efb23a0b9",
       "trimType": "auto",
@@ -18,6 +18,8 @@
       "trimY": 0,
       "width": 12,
       "height": 258,
+      "rawWidth": 12,
+      "rawHeight": 296,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,

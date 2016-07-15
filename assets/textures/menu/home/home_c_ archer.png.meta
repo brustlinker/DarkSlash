@@ -6,7 +6,7 @@
   "filterMode": "bilinear",
   "subMetas": {
     "home_c_ archer": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "d9c99e4c-90eb-493e-9e53-ce468cde104a",
       "rawTextureUuid": "73bd8f30-6634-4fc5-bcae-5f45a1c6f8f1",
       "trimType": "auto",
@@ -18,6 +18,8 @@
       "trimY": 0,
       "width": 130,
       "height": 210,
+      "rawWidth": 130,
+      "rawHeight": 210,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,

@@ -6,7 +6,7 @@
   "filterMode": "bilinear",
   "subMetas": {
     "home_c_zombie_2": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "befc73d1-1a0d-4292-85ca-149c79822b7a",
       "rawTextureUuid": "31b27106-d560-4329-bf7d-2e9b3d07c1f1",
       "trimType": "auto",
@@ -18,6 +18,8 @@
       "trimY": 0,
       "width": 94,
       "height": 134,
+      "rawWidth": 94,
+      "rawHeight": 134,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,

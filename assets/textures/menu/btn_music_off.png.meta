@@ -6,7 +6,7 @@
   "filterMode": "bilinear",
   "subMetas": {
     "btn_music_off": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "a7afba0d-c9af-4eb8-a821-665e8e972aed",
       "rawTextureUuid": "1b983722-4182-4aac-bbb6-234427e46a26",
       "trimType": "auto",
@@ -18,6 +18,8 @@
       "trimY": 9,
       "width": 90,
       "height": 72,
+      "rawWidth": 92,
+      "rawHeight": 92,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,

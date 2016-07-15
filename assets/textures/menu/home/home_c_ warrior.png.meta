@@ -6,7 +6,7 @@
   "filterMode": "bilinear",
   "subMetas": {
     "home_c_ warrior": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "49cf4ee6-2572-425c-adb1-903d9181a6f6",
       "rawTextureUuid": "dc3a17a6-615d-4267-92cd-2792d51bb70f",
       "trimType": "auto",
@@ -18,6 +18,8 @@
       "trimY": 0,
       "width": 100,
       "height": 188,
+      "rawWidth": 100,
+      "rawHeight": 188,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
